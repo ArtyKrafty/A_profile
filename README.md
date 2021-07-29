@@ -1,13 +1,15 @@
-01. [Проекты Data Science // Projects Data Science](https://github.com/ArtyKrafty/Data_science_projects). 
-02. [Алгоритмы и структуры данных](https://github.com/ArtyKrafty/Algorithms)
+
+__________________________________________________________________________________________________________________________
 
 
+01. [Проекты Data Science // Projects Data Science](https://github.com/ArtyKrafty/Data_science_projects). Репозиторий 
+02. [Алгоритмы и структуры данных](https://github.com/ArtyKrafty/Algorithms). Репозиторий
+03. [Сертификаты](https://github.com/ArtyKrafty/Data_science_projects/tree/main/certificates).
+04. [Профиль на Kaggle // Profile on Kaggle](https://www.kaggle.com/artemsolomko).
+05. [Профиль на Leetcode](https://leetcode.com/artysolomko/).
+__________________________________________________________________________________________________________________________
 
-профиль на Kaggle // profile on Kaggle
-https://www.kaggle.com/artemsolomko
-
-профиль на Leetcode // profile on LeetCode
-https://leetcode.com/artysolomko/
+Проекты и курсовые работы
 __________________________________________________________________________________________________________________________
 
 
