@@ -36,7 +36,7 @@ ________________________________________________________________________________
 | [19. SMA стратегия Forex](https://github.com/ArtyKrafty/Kraftyy/tree/main/sma_trading_forex)| Работа с временными рядами, реализация торговой стратегии| Завершен|
 | [20. Прогнозирование количества заказов такси](https://github.com/ArtyKrafty/Kraftyy/tree/main/time_series_taxi)| Работа с временными рядами, Необходимо построить модель для прогнозирования количества заказов такси.| Завершен|
 | [21. Классификация тональности текста](https://github.com/ArtyKrafty/Data_science_projects/tree/main/toxic_comments_BERT)| Необходимо обучить модель классифицировать комментарии на позитивные и негативные| Завершен|
-| [22. Cleaned Toxic Comments](https://github.com/ArtyKrafty/Data_science_projects/tree/main/toxic_comments_kaggle)|версия для kaggle|Kaggle notebook|
+| [22. Cleaned Toxic Comments](https://github.com/ArtyKrafty/Data_science_projects/tree/main/toxic_comments_kaggle)|версия для kaggle|Завершен|
 
 
 
