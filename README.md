@@ -40,6 +40,8 @@ ________________________________________________________________________________
 | [20. Прогнозирование количества заказов такси](https://github.com/ArtyKrafty/Kraftyy/tree/main/time_series_taxi)| Работа с временными рядами, Необходимо построить модель для прогнозирования количества заказов такси.| Завершен|
 | [21. Классификация тональности текста](https://github.com/ArtyKrafty/Data_science_projects/tree/main/toxic_comments_BERT)| Необходимо обучить модель классифицировать комментарии на позитивные и негативные| Завершен|
 | [22. Cleaned Toxic Comments](https://github.com/ArtyKrafty/Data_science_projects/tree/main/toxic_comments_kaggle)|версия для kaggle|Завершен|
+| [23. Аналитика в авиакомпании](https://github.com/ArtyKrafty/Data_science_projects/blob/main/data_extraction_and_and_avia/avia_tickets.ipynb)|Понять предпочтения пользователей, покупающих билеты на рейсы в города, где проходят крупнейшие фестивали|Завершен|
+
 
 
 
