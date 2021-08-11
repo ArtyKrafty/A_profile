@@ -39,7 +39,7 @@ ________________________________________________________________________________
 | [19. SMA стратегия Forex](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/sma_trading_forex/SMAtrading.ipynb)| Работа с временными рядами, реализация торговой стратегии| Завершен|
 | [20. Прогнозирование количества заказов такси](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/time_series_taxi/taxi_time_series.ipynb)| Работа с временными рядами, Необходимо построить модель для прогнозирования количества заказов такси.| Завершен|
 | [21. Классификация тональности текста](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/toxic_comments_BERT/toxic_comments_BERT.ipynb)| Необходимо обучить модель классифицировать комментарии на позитивные и негативные| Завершен|
-| [22. Cleaned Toxic Comments](https://github.com/ArtyKrafty/Data_science_projects/blob/main/toxic_comments_kaggle/toxic-comments-disbert-and-stacking.ipynb)|версия для kaggle|Завершен|
+| [22. Cleaned Toxic Comments](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/toxic_comments_kaggle/toxic-comments-disbert-and-stacking.ipynb)|версия для kaggle|Завершен|
 | [23. Аналитика в авиакомпании](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/data_extraction_and_and_avia/avia_tickets.ipynb)|Понять предпочтения пользователей, покупающих билеты на рейсы в города, где проходят крупнейшие фестивали|Завершен|
 
 
