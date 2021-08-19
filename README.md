@@ -41,6 +41,7 @@ ________________________________________________________________________________
 | [20. Client churn from bank kaggle version](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/Churn_bank_kaggle%20version/churn_kaggel_ipynb_.ipynb)|версия для kaggle|Завершен|
 | [21. Video games with score KAGGLE](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/video_games_with_score_%20kagg/Video_Game_Sales_with_Ratings_ipynb_.ipynb) |версия для kaggle|Завершен|
 | [22. Cleaned Toxic Comments](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/toxic_comments_kaggle/toxic-comments-disbert-and-stacking.ipynb)|версия для kaggle|Завершен|
+| [23. ML Contest Kaggle](https://nbviewer.jupyter.org/github.com/ArtyKrafty/Data_science_projects/blob/main/Kaggle_30ML_baseline/30ML_LGBM_clean__catboost__Keras.ipynb)|версия для kaggle|Завершен|
 
 
 
