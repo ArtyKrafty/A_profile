@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 
 
-| **Проект** | **Тип исследованияe** | **Статус** |
+| **Проект** | **Тип исследования** | **Статус** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [01. Музыка больших городов](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/first_training_music/music_of_cities.ipynb) | Как музыка, которая звучит по дороге на работу в понедельник утром, отличается от той, что играет в среду или в конце рабочей недели? | Завершен |
 | [02. Исследование объявлений о продаже квартир](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/real_state_eda/real_state_eda.ipynb) | Исследовательский анализ данных Необходимо определить параметры, оказывающие наибольшее влияние на оценку стоимости недвижимости. | Завершен|
@@ -56,7 +56,7 @@ ________________________________________________________________________________
 <p align="center"> Проекты Kaggle </p align="center">
 
 
-| **Проект** | **Тип исследованияe** | **Статус** |
+| **Проект** | **Тип исследования** | **Статус** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [01. Titanic competition](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/Titanic/Titanic.ipynb)| Машинное обучение. Задача классификации и оптимизации | Завершен|
 | [02. Monte_carlo](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/monte_carlo_method/monte_carlo.ipynb)| Визуализация ЦПТ и закона больших чисел| [Завершен](https://www.kaggle.com/artemsolomko/understanding-the-law-of-large-numbers-bootstrap) |
