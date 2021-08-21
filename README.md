@@ -14,6 +14,12 @@ ________________________________________________________________________________
 Проекты и курсовые работы.   
 Отображение некоторых элементов ограничено - рекомендую смотреть проекты через [External Viewer](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/tree/9d86c5514664c670c928edbb1eb0f857e62e4e5e/)
 __________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________
+
+<p align="center"> Проекты по программе обучения Я.Практикум </p align="center">
+
+
+
 
 
 | **Проект** | **Тип исследованияe** | **Статус** |
@@ -34,16 +40,24 @@ ________________________________________________________________________________
 | [13. Прогнозирование количества заказов такси](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/time_series_taxi/taxi_time_series.ipynb)| Работа с временными рядами, Необходимо построить модель для прогнозирования количества заказов такси.| Завершен|
 | [14. Классификация тональности текста](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/toxic_comments_BERT/toxic_comments_BERT.ipynb)| Необходимо обучить модель классифицировать комментарии на позитивные и негативные| Завершен|
 | [15. Аналитика в авиакомпании](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/data_extraction_and_and_avia/avia_tickets.ipynb)|Понять предпочтения пользователей, покупающих билеты на рейсы в города, где проходят крупнейшие фестивали|Завершен|
-| [16. Titanic competition KAGGLE](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/Titanic/Titanic.ipynb)| Машинное обучение\\ML| Завершен|
-| [17. Monte_carlo KAGGLE](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/monte_carlo_method/monte_carlo.ipynb)| Визуализация ЦПТ и закона больших чисел Завершен |
-| [18. Heart attack analysis and prediction KAGGLE](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/heart_attack_eda_and_pred/heart-attack-analysis-and-prediction.ipynb) | проект: построение модели, предсказывающий сердечный приступ у пациента| Завершен|
-| [19. Video games EDA KAGGLE](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/Video_games_kaggle/Video_Game_Sales.ipynb)| EDA игр|Завершен|
-| [20. Client churn from bank kaggle version](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/Churn_bank_kaggle%20version/churn_kaggel_ipynb_.ipynb)|версия для kaggle|Завершен|
-| [21. Video games with score KAGGLE](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/video_games_with_score_%20kagg/Video_Game_Sales_with_Ratings_ipynb_.ipynb) |версия для kaggle|Завершен|
-| [22. Cleaned Toxic Comments](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/toxic_comments_kaggle/toxic-comments-disbert-and-stacking.ipynb)|версия для kaggle|Завершен|
-| [23. ML Contest Kaggle](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Kaggle_30ML_baseline/30ML_LGBM_clean__catboost__Keras.ipynb)|версия для kaggle|Завершен|
+__________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________
+
+<p align="center"> Проекты Kaggle </p align="center">
 
 
+| **Проект** | **Тип исследованияe** | **Статус** |
+| -------------------- | :--------------------- |:---------------------------:|
+| [01. Titanic competition](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/Titanic/Titanic.ipynb)| Машинное обучение. Задача классификации и оптимизации | Завершен|
+| [02. Monte_carlo](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/monte_carlo_method/monte_carlo.ipynb)| Визуализация ЦПТ и закона больших чисел| [Завершен](https://www.kaggle.com/artemsolomko/understanding-the-law-of-large-numbers-bootstrap) |
+| [03. Heart attack analysis and prediction](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/heart_attack_eda_and_pred/heart-attack-analysis-and-prediction.ipynb) | Построение модели, предсказывающий сердечный приступ у пациента| [Завершен](https://www.kaggle.com/artemsolomko/heart-attack-analysis-and-prediction)|
+| [04. Video games EDA](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/Video_games_kaggle/Video_Game_Sales.ipynb)| Исследовательский анализ продаж игр на различных платформах|[Завершен](https://www.kaggle.com/artemsolomko/video-game-sales-eda)|
+| [05. Client churn from bank](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/Churn_bank_kaggle%20version/churn_kaggel_ipynb_.ipynb)|Машинное обучение. Построение модели машинного обучения. Задача классификации|[Завершен](https://www.kaggle.com/artemsolomko/customer-churn-prediction)|
+| [06. Video games with score](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/video_games_with_score_%20kagg/Video_Game_Sales_with_Ratings_ipynb_.ipynb) |Исследовательский анализ продаж игр на различных платформах и рейтинга|[Завершен](https://www.kaggle.com/artemsolomko/video-games-sales-with-score-eda-and-stat-test)|
+| [07. Cleaned Toxic Comments](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/toxic_comments_kaggle/toxic-comments-disbert-and-stacking.ipynb)|NLP, построение модели машинного обучения для предсказаания токсичности текстов|[Завершен](https://www.kaggle.com/artemsolomko/toxic-comments-disbert-and-stacking)|
+| [08. ML Contest](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Kaggle_30ML_baseline/30ML_LGBM_clean__catboost__Keras.ipynb)|Наработки за время прохождения соревнований 30days of ML. Baseline|Завершен|
+
+__________________________________________________________________________________________________________________________
 
 
 
