@@ -73,7 +73,9 @@ ________________________________________________________________________________
 | [05. Client churn from bank](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/Churn_bank_kaggle%20version/churn_kaggel_ipynb_.ipynb)|Машинное обучение. Построение модели машинного обучения. Задача классификации|[Завершен](https://www.kaggle.com/artemsolomko/customer-churn-prediction)|
 | [06. Video games with score](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/video_games_with_score_%20kagg/Video_Game_Sales_with_Ratings_ipynb_.ipynb) |Исследовательский анализ продаж игр на различных платформах и рейтинга|[Завершен](https://www.kaggle.com/artemsolomko/video-games-sales-with-score-eda-and-stat-test)|
 | [07. Cleaned Toxic Comments](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/toxic_comments_kaggle/toxic-comments-disbert-and-stacking.ipynb)|NLP, построение модели машинного обучения для предсказаания токсичности текстов|[Завершен](https://www.kaggle.com/artemsolomko/toxic-comments-disbert-and-stacking)|
-| [08. ML Contest](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Kaggle_30ML_baseline/30ML_LGBM_clean__catboost__Keras.ipynb)|Наработки за время прохождения соревнований 30days of ML. Baseline|Завершен|
+| [08. ML Contest](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Kaggle_30ML_baseline/Ensebmle_XGB__LGB_w_KERAS.ipynb)|Наработки за время прохождения соревнований 30days of ML. Baseline|Завершен|
+
+
 
 __________________________________________________________________________________________________________________________
 
