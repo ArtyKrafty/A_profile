@@ -6,8 +6,9 @@ ________________________________________________________________________________
 
 01. [Репозиторий - Проекты Data Science](https://github.com/ArtyKrafty/Data_science_projects)  
 02. [Репозиторий - Алгоритмы и структуры данных](https://github.com/ArtyKrafty/Algorithms)
-03. [Сертификаты](https://github.com/ArtyKrafty/Data_science_projects/tree/main/certificates)
-04. [Профиль на Kaggle](https://www.kaggle.com/artemsolomko) и [Профиль на Leetcode](https://leetcode.com/artysolomko/)
+03. [Репозиторий - Алгоритмические задачи](https://github.com/ArtyKrafty/Algo_tasks)
+04. [Сертификаты](https://github.com/ArtyKrafty/Data_science_projects/tree/main/certificates)
+05. [Профиль на Kaggle](https://www.kaggle.com/artemsolomko) и [Профиль на Leetcode](https://leetcode.com/artysolomko/)
 
 
 
