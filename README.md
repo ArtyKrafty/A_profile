@@ -78,6 +78,7 @@ ________________________________________________________________________________
 | [07. Cleaned Toxic Comments](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/toxic_comments_kaggle/toxic-comments-disbert-and-stacking.ipynb)|NLP, построение модели машинного обучения для предсказаания токсичности текстов|[Завершен](https://www.kaggle.com/artemsolomko/toxic-comments-disbert-and-stacking)|
 | [08. ML Contest](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Kaggle_30ML_baseline/OptunaXGB_stackingfin.ipynb)|Наработки за время прохождения соревнований 30days of ML. Baseline|Завершен|
 | [09. Digits recognation](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Digits_recognation_CV/Digit_Recognizer.ipynb)|Распознавание цифр. MNIST, Keras CNN, Tensorflow|[Завершен](https://www.kaggle.com/artemsolomko/digits-recognition-with-keras-cnn-and-dnn-on-tfv1)|
+| [10. LastFM reccomendation system](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/tree/main/kaggel_last_fm)|Простая рекомендательная система|Завершен|
 
 
 
