@@ -1,7 +1,7 @@
 
-![](https://i.ibb.co/SyYP943/enterprise-data-science-1.png). 
+<p align="center"><img src='http://i.ibb.co/SyYP943/enterprise-data-science-1.png'></p>
 
-[Профиль на Kaggle](https://www.kaggle.com/artemsolomko) и [Профиль на Leetcode](https://leetcode.com/artysolomko/)
+<p align="center"> <a href="https://www.kaggle.com/artemsolomko">Профиль на Kaggle</a> и <a href="https://leetcode.com/artysolomko/">Профиль на Leetcode</a></p>
 
 __________________________________________________________________________________________________________________________
 
