@@ -2,15 +2,13 @@
 <p align="center"><img src='http://i.ibb.co/SyYP943/enterprise-data-science-1.png'></p>
 
 <p align="center"> <a href="https://www.kaggle.com/artemsolomko">Профиль на Kaggle</a> и <a href="https://leetcode.com/artysolomko/">Профиль на Leetcode</a></p>
-
+<p align="center"> <a href="https://github.com/ArtyKrafty/Data_science_projects/tree/main/certificates">Сертификаты о прохождении курсов</a></p>
 __________________________________________________________________________________________________________________________
 
 
 01. [Репозиторий - Проекты Data Science](https://github.com/ArtyKrafty/Data_science_projects)  
 02. [Репозиторий - Алгоритмы и структуры данных](https://github.com/ArtyKrafty/Algorithms)
 03. [Репозиторий - Web-приложение для определения цены автомобиля](https://github.com/ArtyKrafty/CarPriceApp) и [Web-приложение](https://carpricepredictapp.herokuapp.com/)
-04. [Сертификаты](https://github.com/ArtyKrafty/Data_science_projects/tree/main/certificates)
-
 
 
 __________________________________________________________________________________________________________________________
