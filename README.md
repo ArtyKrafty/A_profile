@@ -8,9 +8,8 @@ ________________________________________________________________________________
 
 01. [Репозиторий - Проекты Data Science](https://github.com/ArtyKrafty/Data_science_projects)  
 02. [Репозиторий - Алгоритмы и структуры данных](https://github.com/ArtyKrafty/Algorithms)
-03. [Репозиторий - Алгоритмические задачи](https://github.com/ArtyKrafty/Algo_tasks)
-04. [Репозиторий - Web-приложение для определения цены автомобиля](https://github.com/ArtyKrafty/CarPriceApp) и [Web-приложение](https://carpricepredictapp.herokuapp.com/)
-05. [Сертификаты](https://github.com/ArtyKrafty/Data_science_projects/tree/main/certificates)
+03. [Репозиторий - Web-приложение для определения цены автомобиля](https://github.com/ArtyKrafty/CarPriceApp) и [Web-приложение](https://carpricepredictapp.herokuapp.com/)
+04. [Сертификаты](https://github.com/ArtyKrafty/Data_science_projects/tree/main/certificates)
 
 
 
