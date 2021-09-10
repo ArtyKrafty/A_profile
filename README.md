@@ -3,6 +3,7 @@
 
 <p align="center"> <a href="https://www.kaggle.com/artemsolomko">Профиль на Kaggle</a> и <a href="https://leetcode.com/artysolomko/">Профиль на Leetcode</a></p>
 <p align="center"> <a href="https://github.com/ArtyKrafty/Data_science_projects/tree/main/certificates">Сертификаты о прохождении курсов</a></p>
+
 __________________________________________________________________________________________________________________________
 
 
