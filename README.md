@@ -8,9 +8,10 @@ ________________________________________________________________________________
 
 
 01. [Репозиторий - Проекты Data Science](https://github.com/ArtyKrafty/Data_science_projects)  
-02. [Репозиторий - Алгоритмы и структуры данных](https://github.com/ArtyKrafty/Algorithms)
-03. [Репозиторий - Web-приложение для определения цены автомобиля](https://github.com/ArtyKrafty/CarPriceApp) и [Web-приложение](https://carpricepredictapp.herokuapp.com/)
-04. [Дипломный проект Я.Практикум. Исследование оттока клиентов](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Diploma_project/diploma_solomko_final.ipynb)
+02. [Репозиторий - Проекты Data Analyst](https://github.com/ArtyKrafty/Data_analyst_projects)  
+03. [Репозиторий - Алгоритмы и структуры данных](https://github.com/ArtyKrafty/Algorithms)
+04. [Репозиторий - Web-приложение для определения цены автомобиля](https://github.com/ArtyKrafty/CarPriceApp) и [Web-приложение](https://carpricepredictapp.herokuapp.com/)
+05. [Дипломный проект Я.Практикум. Исследование оттока клиентов](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Diploma_project/diploma_solomko_final.ipynb)
 
 
 __________________________________________________________________________________________________________________________
