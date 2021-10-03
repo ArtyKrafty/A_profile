@@ -86,7 +86,7 @@ ________________________________________________________________________________
 | [08. ML Contest](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Kaggle_30ML_baseline/OptunaXGB_stackingfin.ipynb)|Наработки за время прохождения соревнований 30days of ML. Baseline|Завершен|
 | [09. Digits recognation](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Digits_recognation_CV/Digit_Recognizer.ipynb)|Распознавание цифр. MNIST, Keras CNN, Tensorflow|[Завершен](https://www.kaggle.com/artemsolomko/digits-recognition-with-keras-cnn-and-dnn-on-tfv1)|
 | [10. LastFM recommendation system](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/kaggel_last_fm/Last_fm_rec.ipynb)|Простая рекомендательная система|Завершен|
-| [11. Telco Customer Churn](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/)|Предсказать отток клиентов|[Завершен](https://www.kaggle.com/artemsolomko/telcocustomerchurn)|
+| [11. Telco Customer Churn](https://www.kaggle.com/artemsolomko/telcocustomerchurn)|Предсказать отток клиентов|[Завершен](https://www.kaggle.com/artemsolomko/telcocustomerchurn)|
 
 
 __________________________________________________________________________________________________________________________
