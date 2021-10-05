@@ -55,6 +55,7 @@ ________________________________________________________________________________
 | [14. Классификация тональности текста](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/toxic_comments_BERT/toxic_comments_BERT.ipynb)| Необходимо обучить модель классифицировать комментарии на позитивные и негативные| Завершен|
 | [15. Аналитика в авиакомпании](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/data_extraction_and_and_avia/avia_tickets.ipynb)|Понять предпочтения пользователей, покупающих билеты на рейсы в города, где проходят крупнейшие фестивали|Завершен|
 | [16. Обучение нейронных сетей](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/neural_network/image_age_recognition.ipynb)|Необходимо построить модель, которая по фотографии определит приблизительный возраст человека. В нашем распоряжении набор фотографий людей с указанием возраста|Завершен|
+| [17. OOП в линейных моделях](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/tree/main/OOP_linear_models)|ООП в линейных моделях||
 __________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
