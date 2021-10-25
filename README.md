@@ -10,7 +10,7 @@ ________________________________________________________________________________
 01. [Репозиторий - Проекты Data Science](https://github.com/ArtyKrafty/Data_science_projects)  
 02. [Репозиторий - Проекты Data Analyst](https://github.com/ArtyKrafty/Data_analyst_projects)  
 03. [Репозиторий - Алгоритмы и структуры данных](https://github.com/ArtyKrafty/Algorithms)
-04. [Репозиторий - Web-приложение для определения цены автомобиля](https://github.com/ArtyKrafty/CarPriceApp) и [Web-приложение](https://carpricepredictapp.herokuapp.com/)
+04. [Репозиторий - Web-приложение для определения цены автомобиля](https://github.com/ArtyKrafty/CarPriceApp)
 
 
 
@@ -57,6 +57,9 @@ ________________________________________________________________________________
 | [16. Обучение нейронных сетей](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/neural_network/image_age_recognition.ipynb)|Необходимо построить модель, которая по фотографии определит приблизительный возраст человека. В нашем распоряжении набор фотографий людей с указанием возраста|Завершен|
 | [17. OOП в линейных моделях](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/OOP_linear_models/mylineraregression.ipynb)|ООП в линейных моделях|Завершен|
 | [18. Исследование оттока клиентов телеком компании](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Diploma_project/diploma_solomko_final.ipynb)|Дипломный проект. Дисбаланс классов, классификация бинарная|Завершен|
+| [19. Web-приложение - Предсказание цены автомобиля](https://carpricepredictapp.herokuapp.com/)|Приложение с API. Flask, html, css, python |Завершен|
+
+
 __________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
