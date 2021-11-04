@@ -75,7 +75,7 @@ ________________________________________________________________________________
 | [01. Исследование продаж авиабилетов](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_analyst_projects/blob/main/data_extraction_and_and_avia/avia_sales.ipynb)|Понять предпочтения пользователей, покупающих билеты на рейсы в города, где проходят крупнейшие фестивали|Завершен|
 | [02. Анализ бизнес показателей сервиса Афиша](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/blob/main/afisha_analys/afisha_analys.ipynb)|Выявить убыточные источника траффика. Когортный анализ|Завершен|
 | [03. Принятие решений в бизнесе на основе данных](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/blob/main/e_comm_AB/e_comm_AB.ipynb)|Приоритизировать гипотезы, А/В тестирование|Завершен|
-| [04. Рынок заведений общественного питания Москвы](https://nbviewer.org/github.com/ArtyKrafty/Data_analyst_projects/tree/main/catering.ipynb)|Исследовать различные форматы точек общественного питания|Pandas, seaborn, numpy, презентация, geoPandas, geocode|
+| [04. Рынок заведений общественного питания Москвы](https://nbviewer.org/github.com/ArtyKrafty/Data_analyst_projects/tree/main/catering.ipynb)|Исследовать различные форматы точек общественного питания|Завершен|
 
 __________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________
