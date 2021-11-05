@@ -60,7 +60,7 @@ ________________________________________________________________________________
 | [19. Web-приложение - Предсказание цены автомобиля](https://carpricepredictapp.herokuapp.com/)|Приложение с API. Flask, html, css, python |Завершен|
 | [20. Предсказание дефолта клиентов банка](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_clietns_default/bank_client_default.ipynb)|Предсказание дефолта с помощью инструментов МЛ, pipiline обработки для продакшн|Завершен|
 | [21. Предсказание температуры и углерода в процессе продувки](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/temp_and_carbon_pred/w_o_data_EVRAZ_sandbox_ipynb_.ipynb)|Предсказание двух целевых переменных в задаче регрессии с помощью инструментов МЛ, pipiline обработки для продакшн, борьба с различным распределением целевой переменной|Завершен|
-
+| [22. Обучение нейронных сетей. DLS](https://nbviewer.org/github.com/ArtyKrafty/Data_science_projects/tree/main/py_torch_baseline/py_toch_baseline.ipynb)|Полный цикл обучения ANN, CNN на pyTorch|Scikit-learn, PyTorch, Pandas, NumPy, Matplotlib, Seaborn|
 __________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
