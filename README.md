@@ -96,7 +96,7 @@ ________________________________________________________________________________
 | [09. Digits recognation](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Digits_recognation_CV/Digit_Recognizer.ipynb)|Распознавание цифр. MNIST, Keras CNN, Tensorflow|[Завершен](https://www.kaggle.com/artemsolomko/digits-recognition-with-keras-cnn-and-dnn-on-tfv1)|
 | [10. LastFM recommendation system](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/kaggel_last_fm/Last_fm_rec.ipynb)|Простая рекомендательная система|Завершен|
 | [11. Telco Customer Churn](https://www.kaggle.com/artemsolomko/telcocustomerchurn)|Предсказать отток клиентов|[Завершен](https://www.kaggle.com/artemsolomko/telcocustomerchurn)|
-| [12. Simpsons classification](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/tree/main/kaggle_simpson/Simpsons_classifier_Solomko.ipynb)|Классификация. Компьютерное зрение|Завершен|
+| [12. Simpsons classification](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/kaggle_simpson/Simpsons_classifier_Solomko.ipynb)|Классификация. Компьютерное зрение|Завершен|
 
 
 __________________________________________________________________________________________________________________________
