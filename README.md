@@ -57,6 +57,8 @@ ________________________________________________________________________________
 | [21. Предсказание температуры и углерода в процессе продувки](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/temp_and_carbon_pred/w_o_data_EVRAZ_sandbox_ipynb_.ipynb)|Предсказание двух целевых переменных в задаче регрессии с помощью инструментов МЛ, pipiline обработки для продакшн, борьба с различным распределением целевой переменной|Завершен|
 | [22. Обучение нейронных сетей. DLS](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/py_torch_baseline/py_toch_baseline.ipynb)|Полный цикл обучения ANN, CNN на pyTorch|Завершен|
 | [23. Прогнозирование востребования баковской гарантии](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_garanty/garanty_bank.ipynb)|построить аппликационную модель оценки вероятности предъявления по гарантии, чтобы минимизировать потери от кредитного риска|Завершен|
+| [24. Компьютерное зрение. Сегментация](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/segmentation/pyTorch_Segmentation_Solomko_ipynb_.ipynb)|реализация архитектур нейронных сетей для задач сегментации, pyTorch|Завершен|
+| [25. Компьютерное зрение. Автоэнкодеры](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/autoencoders/AutoEncoders_Solomko.ipyn)|реализация архитектур нейронных сетей автокодировщиков, pyTorch|Завершен|
 __________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
