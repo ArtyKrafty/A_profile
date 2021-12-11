@@ -59,6 +59,7 @@ ________________________________________________________________________________
 | [23. Прогнозирование востребования баковской гарантии](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_garanty/garanty_bank.ipynb)|построить аппликационную модель оценки вероятности предъявления по гарантии, чтобы минимизировать потери от кредитного риска|Завершен|
 | [24. Компьютерное зрение. Сегментация](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/segmentation/pyTorch_Segmentation_Solomko_ipynb_.ipynb)|реализация архитектур нейронных сетей для задач сегментации, pyTorch|Завершен|
 | [25. Компьютерное зрение. Автоэнкодеры](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/autoencoders/AutoEncoders_Solomko.ipynb)|реализация архитектур нейронных сетей автокодировщиков, pyTorch|Завершен|
+| [26. Компьютерное зрение. GAN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/)|реализация архитектур нейронных сетей GAN, pyTorch|В процессе|
 __________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
