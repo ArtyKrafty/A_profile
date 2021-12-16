@@ -81,6 +81,8 @@ ________________________________________________________________________________
 | [08. Рынок заведений общественного питания Москвы](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/blob/main/catering_proj/catering.ipynb)|Исследовать различные форматы точек общественного питания|Завершен|
 | [09. Исследование поведения пользователей приложения](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/tree/main/startup_AB/startup_AB.ipynb)|Изучить воронку продаж. Проанализировать результаты ААВ теста|Завершен|
 | [10. Автоматизация и подготовка dashboards](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/blob/main/%20dashboards/YaZen.ipynb)|автоматизировать загрузку данных в БД, построить dashboard|Завершен|
+| [11. Прогнозирование оттока клиентов фитнес-центра](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/tree/main/fittness/fittness.ipynb)|Кластеризация, машинное обучение|Pandas, sklearn, SHAP, numpy, Pandas|
+
 
 
 
