@@ -34,7 +34,7 @@ ________________________________________________________________________________
 | [03. Компьютерное зрение. Сегментация](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/segmentation/pyTorch_Segmentation_Solomko_ipynb_.ipynb)|реализация архитектур нейронных сетей для задач сегментации, pyTorch|Завершен|
 | [04. Компьютерное зрение. Автоэнкодеры](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/autoencoders/AutoEncoders_Solomko.ipynb)|реализация архитектур нейронных сетей автокодировщиков, pyTorch|Завершен|
 | [05. Компьютерное зрение. GAN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gan/pyTorch_GAN_s.ipynb)|реализация архитектур нейронных сетей GAN, pyTorch|Завершен|
-| [06. Simpsons classification](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/kaggle_simpson/Simpsons_classifier_Solomko.ipynb)|Классификация. Компьютерное зрение|Завершен|
+| [06. Simpsons классификация. CNN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/kaggle_simpson/Simpsons_classifier_Solomko.ipynb)|Классификация. Компьютерное зрение|Завершен|
 __________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
