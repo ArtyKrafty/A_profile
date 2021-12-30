@@ -6,12 +6,17 @@
 
 __________________________________________________________________________________________________________________________
 
+Ноутбуки `.ipynb` и `.py` скрипты:
 
 01. [Репозиторий - Проекты Data Science](https://github.com/ArtyKrafty/Data_science_projects)  
 02. [Репозиторий - Проекты Data Analyst](https://github.com/ArtyKrafty/Data_analyst_projects)  
 03. [Репозиторий - Алгоритмы и структуры данных](https://github.com/ArtyKrafty/Algorithms)
-04. [Репозиторий - Web-приложение для определения цены автомобиля](https://github.com/ArtyKrafty/CarPriceApp)
-05. [Репозиторий - OpenSource. Классы для отбора признаков и обработке DataFrame. PyPI проект](https://github.com/ArtyKrafty/featureselectors)
+
+Модули:
+
+01. [Репозиторий - Web-приложение для определения цены автомобиля](https://github.com/ArtyKrafty/CarPriceApp)
+02. [Репозиторий - OpenSource. Классы для отбора признаков и обработке DataFrame. PyPI проект](https://github.com/ArtyKrafty/featureselectors)
+03. [Репозиторий - Модульная обработка изображений с использованием OpenCV и генераторов Python с помощью Detectron2](https://github.com/ArtyKrafty/detection)
 
 
 
