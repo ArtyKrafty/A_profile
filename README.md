@@ -34,13 +34,13 @@ ________________________________________________________________________________
 
 | **Проект** | **Тип исследования** | **Статус** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Компьютерное зрение. Регрессия](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/neural_network/image_age_recognition.ipynb)|необходимо построить модель, которая по фотографии определит приблизительный возраст человека. В нашем распоряжении набор фотографий людей с указанием возраста|Завершен|
-| [02. Обучение нейронных сетей. DLS](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/py_torch_baseline/py_toch_baseline.ipynb)|полный цикл обучения ANN, CNN на pyTorch|Завершен|
-| [03. Компьютерное зрение. Сегментация](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/segmentation/pyTorch_Segmentation_Solomko_ipynb_.ipynb)|реализация архитектур нейронных сетей для задач сегментации, pyTorch|Завершен|
-| [04. Компьютерное зрение. Автоэнкодеры](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/autoencoders/AutoEncoders_Solomko.ipynb)|реализация архитектур нейронных сетей автокодировщиков, pyTorch|Завершен|
-| [05. Компьютерное зрение. GAN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gan/pyTorch_GAN_s.ipynb)|реализация архитектур нейронных сетей GAN, pyTorch|Завершен|
-| [06. Simpsons классификация. CNN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/kaggle_simpson/Simpsons_classifier_Solomko.ipynb)|классификация. Компьютерное зрение|Завершен|
-| [07. Модуль детекции объектов](https://detartyseg.herokuapp.com/)|детекция, сегментация на кастомном сете данных, создание приложения|Завершен|
+| [01. Компьютерное зрение. Регрессия](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/neural_network/image_age_recognition.ipynb)|Необходимо построить модель, которая по фотографии определит приблизительный возраст человека. В нашем распоряжении набор фотографий людей с указанием возраста|Завершен|
+| [02. Обучение нейронных сетей. DLS](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/py_torch_baseline/py_toch_baseline.ipynb)|Полный цикл обучения ANN, CNN на pyTorch|Завершен|
+| [03. Компьютерное зрение. Сегментация](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/segmentation/pyTorch_Segmentation_Solomko_ipynb_.ipynb)|Реализация архитектур нейронных сетей для задач сегментации, pyTorch|Завершен|
+| [04. Компьютерное зрение. Автоэнкодеры](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/autoencoders/AutoEncoders_Solomko.ipynb)|Реализация архитектур нейронных сетей автокодировщиков, pyTorch|Завершен|
+| [05. Компьютерное зрение. GAN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gan/pyTorch_GAN_s.ipynb)|Реализация архитектур нейронных сетей GAN, pyTorch|Завершен|
+| [06. Simpsons классификация. CNN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/kaggle_simpson/Simpsons_classifier_Solomko.ipynb)|Классификация. Компьютерное зрение|Завершен|
+| [07. Модуль детекции объектов](https://detartyseg.herokuapp.com/)|Детекция, сегментация на кастомном сете данных, создание приложения|Завершен|
 
 
 
@@ -68,7 +68,7 @@ ________________________________________________________________________________
 | [14. Web-приложение - Предсказание цены автомобиля](https://carpricepredictapp.herokuapp.com/)|Приложение с API. Flask, html, css, python |Завершен|
 | [15. Предсказание дефолта клиентов банка](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_clietns_default/bank_client_default.ipynb)|Предсказание дефолта с помощью инструментов МЛ, pipiline обработки для продакшн|Завершен|
 | [16. Предсказание температуры и углерода в процессе продувки](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/temp_and_carbon_pred/w_o_data_EVRAZ_sandbox_ipynb_.ipynb)|Предсказание двух целевых переменных в задаче регрессии с помощью инструментов МЛ, pipiline обработки для продакшн, борьба с различным распределением целевой переменной|Завершен|
-| [17. Прогнозирование востребования банковской гарантии](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_garanty/garanty_bank.ipynb)|построить аппликационную модель оценки вероятности предъявления по гарантии, чтобы минимизировать потери от кредитного риска|Завершен|
+| [17. Прогнозирование востребования банковской гарантии](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_garanty/garanty_bank.ipynb)|Построить аппликационную модель оценки вероятности предъявления по гарантии, чтобы минимизировать потери от кредитного риска|Завершен|
 
 __________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________
