@@ -39,6 +39,10 @@ ________________________________________________________________________________
 Для удобства, ссылки ведут сразу на данный сервис просмотра. Если нужны исходные файлы - переходи на соответствующий репозиторий
 
 
+
+__________________________________________________________________________________________________________________________
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -215,6 +219,10 @@ ________________________________________________________________________________
 
 The display of some elements is limited - I recommend watching projects through [External Viewer](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/tree/9d86c5514664c670c928edbb1eb0f857e62e4e5e/)
 For convenience, links lead directly to this viewing service. If you need source files, go to the appropriate repository
+
+
+
+__________________________________________________________________________________________________________________________
 
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
