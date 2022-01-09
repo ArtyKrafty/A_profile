@@ -29,6 +29,7 @@ ________________________________________________________________________________
 
 **Привет**   
 
+
 Отображение некоторых элементов ограничено - рекомендую смотреть проекты через [External Viewer](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/tree/9d86c5514664c670c928edbb1eb0f857e62e4e5e/)   
 Для удобства, ссылки ведут сразу на данный сервис просмотра. Если нужны исходные файлы - переходи на соответствующий репозиторий
 
@@ -48,7 +49,7 @@ ________________________________________________________________________________
 | [07. Модуль детекции объектов](https://detartyseg.herokuapp.com/)|Детекция, сегментация на кастомном сете данных, создание приложения|Завершен|
 
 
-[Наверх](#link6)
+<a href="#link6"><img src='https://img.shields.io/badge/К-началу-blue'></a>
 __________________________________________________________________________________________________________________________
 
 
@@ -75,7 +76,7 @@ ________________________________________________________________________________
 | [16. Предсказание температуры и углерода в процессе продувки](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/temp_and_carbon_pred/w_o_data_EVRAZ_sandbox_ipynb_.ipynb)|Предсказание двух целевых переменных в задаче регрессии с помощью инструментов МЛ, pipiline обработки для продакшн, борьба с различным распределением целевой переменной|Завершен|
 | [17. Прогнозирование востребования банковской гарантии](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_garanty/garanty_bank.ipynb)|Построить аппликационную модель оценки вероятности предъявления по гарантии, чтобы минимизировать потери от кредитного риска|Завершен|
 
-[Наверх](#link6)
+<a href="#link6"><img src='https://img.shields.io/badge/К-началу-blue'></a>
 __________________________________________________________________________________________________________________________
 
 <p align="center"> Проекты Data Analyst </p align="center">
@@ -100,7 +101,7 @@ ________________________________________________________________________________
 
 
 
-[Наверх](#link6)
+<a href="#link6"><img src='https://img.shields.io/badge/К-началу-blue'></a>
 __________________________________________________________________________________________________________________________
 
 <p align="center"> Проекты Kaggle </p align="center">
@@ -121,7 +122,7 @@ ________________________________________________________________________________
 | [11. Telco Customer Churn](https://www.kaggle.com/artemsolomko/telcocustomerchurn)|Предсказать отток клиентов|[Завершен](https://www.kaggle.com/artemsolomko/telcocustomerchurn)|
 
 
-[Наверх](#link6)
+<a href="#link6"><img src='https://img.shields.io/badge/К-началу-blue'></a>
 __________________________________________________________________________________________________________________________
 
 
@@ -174,7 +175,7 @@ ________________________________________________________________________________
 | [07. Object detection module](https://detartyseg.herokuapp.com/)|Detection, segmentation on custom data network, application creation | Completed|
 
 
-[Back to top](#link7)
+<a href="#link7"><img src='https://img.shields.io/badge/Back-to top-blue'></a>
 __________________________________________________________________________________________________________________________
 
 <p align="center"> Data Science projects. Classic ML </p align="center">
@@ -201,7 +202,7 @@ ________________________________________________________________________________
 | [17. Forecasting the demand for a bank guarantee](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_garanty/garanty_bank.ipynb)|Build an application model for assessing the probability of presentation under a guarantee in order to minimize losses from credit risk | Completed |
 
 
-[Back to top](#link7)
+<a href="#link7"><img src='https://img.shields.io/badge/Back-to top-blue'></a>
 __________________________________________________________________________________________________________________________
 
 
@@ -226,13 +227,13 @@ ________________________________________________________________________________
 | [11. Fitness center customer churn forecasting](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/blob/main/fittness/fittness.ipynb)|Clustering, Machine Learning | Completed |
 
 
-[Back to top](#link7)
+<a href="#link7"><img src='https://img.shields.io/badge/Back-to top-blue'></a>
 __________________________________________________________________________________________________________________________
 
 <p align="center"> Проекты Kaggle </p align="center">
 
 
-| **Проект** | **Тип исследования** | **Статус** |
+| **Project** | **Type of research** | **Status** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [01. Titanic competition](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/Titanic/Titanic.ipynb)| Machine learning. Classification and Optimization Problem | Completed |
 | [02. Montecarlo](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/monte_carlo_method/monte_carlo.ipynb)| Visualization of the CLT and the law of large numbers | [Completed](https://www.kaggle.com/artemsolomko/understanding-the-law-of-large-numbers-bootstrap) |
@@ -246,5 +247,6 @@ ________________________________________________________________________________
 | [10. LastFM recommendation system](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/kaggel_last_fm/Last_fm_rec.ipynb)|Simple recommendation system | Completed |
 | [11. Telco Customer Churn](https://www.kaggle.com/artemsolomko/telcocustomerchurn)|Predict Customer Churn | [Completed](https://www.kaggle.com/artemsolomko/telcocustomerchurn)|
 
-[Back to top](#link7)
+
+<a href="#link7"><img src='https://img.shields.io/badge/Back-to top-blue'></a>
 __________________________________________________________________________________________________________________________
