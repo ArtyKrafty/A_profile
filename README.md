@@ -49,6 +49,7 @@ ________________________________________________________________________________
   
    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -68,7 +69,7 @@ ________________________________________________________________________________
 
 
 <p align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=ArtyKrafty&show_icons=true'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyKrafty&show_icons=true&layout=compact&theme=tokyonight'/>
 </p>
 
 __________________________________________________________________________________________________________________________
@@ -240,8 +241,9 @@ For convenience, links lead directly to this viewing service. If you need source
 
 
 <p align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=ArtyKrafty&show_icons=true'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyKrafty&show_icons=true&layout=compact&theme=tokyonight'/>
 </p>
+
 
 __________________________________________________________________________________________________________________________
 
