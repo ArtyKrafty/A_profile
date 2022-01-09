@@ -6,7 +6,12 @@
 
 <p align="center"><img src='http://i.ibb.co/SyYP943/enterprise-data-science-1.png'></p>
 
-<p align="center"> <a href="https://www.kaggle.com/artemsolomko">Профиль на Kaggle</a> и <a href="https://leetcode.com/artysolomko/">Профиль на Leetcode</a></p>
+<p align="center">
+  <a href="https://www.kaggle.com/artemsolomko"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
+  <a href="https://leetcode.com/artysolomko/"><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
+  
+</p>
+
 <p align="center"> <a href="https://github.com/ArtyKrafty/Data_science_projects/tree/main/certificates">Сертификаты о прохождении курсов</a></p>
 
 __________________________________________________________________________________________________________________________
@@ -181,7 +186,11 @@ ________________________________________________________________________________
 
 <p align="center"><img src='http://i.ibb.co/SyYP943/enterprise-data-science-1.png'></p>
 
-<p align="center"> <a href="https://www.kaggle.com/artemsolomko">Kaggle profile</a> and <a href="https://leetcode.com/artysolomko/">Leetcode profile</a></p>
+<p align="center">
+  <a href="https://www.kaggle.com/artemsolomko"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
+  <a href="https://leetcode.com/artysolomko/"><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
+  
+</p>
 <p align="center"> <a href="https://github.com/ArtyKrafty/Data_science_projects/tree/main/certificates">Course completion certificates</a></p>
 
 __________________________________________________________________________________________________________________________
