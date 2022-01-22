@@ -146,7 +146,7 @@ ________________________________________________________________________________
 | [09. Исследование поведения пользователей приложения](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/tree/main/startup_AB/startup_AB.ipynb)|Изучить воронку продаж. Проанализировать результаты ААВ теста|Завершен|
 | [10. Автоматизация и подготовка dashboards](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/blob/main/%20dashboards/YaZen.ipynb)|автоматизировать загрузку данных в БД, построить dashboard|Завершен|
 | [11. Прогнозирование оттока клиентов фитнес-центра](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/blob/main/fittness/fittness.ipynb)|Кластеризация, машинное обучение|Завершен|
-
+| [12. Телеком. Поиск клиента с неоптимальными тарифами](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/tree/main/telecomm_optimization/telecom_opt.ipynb)|Исследовательский анализ данных. Статистический анализ данных. Поиск закономерностей и разработка методов оптимизации|Завершен|
 
 
 <a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
@@ -326,7 +326,7 @@ ________________________________________________________________________________
 | [09. Researching the behavior of users of the application](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/tree/main/startup_AB/startup_AB.ipynb)|Explore the sales funnel. Analyze AAV test results | Completed |
 | [10. Automation and provisioning dashboards](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/blob/main/%20dashboards/YaZen.ipynb)|automate data loading into the database, build a dashboard | Completed |
 | [11. Fitness center customer churn forecasting](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/blob/main/fittness/fittness.ipynb)|Clustering, Machine Learning | Completed |
-
+| [12. Telecom. Finding a client with suboptimal rates](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/tree/main/telecomm_optimization/telecom_opt.ipynb)|Exploratory data analysis. Statistical data analysis. Finding patterns and developing optimization methods|Completed|
 
 <a href="#link7"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
