@@ -146,7 +146,7 @@ ________________________________________________________________________________
 | [09. Исследование поведения пользователей приложения](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/tree/main/startup_AB/startup_AB.ipynb)|Изучить воронку продаж. Проанализировать результаты ААВ теста|Завершен|
 | [10. Автоматизация и подготовка dashboards](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/blob/main/%20dashboards/YaZen.ipynb)|автоматизировать загрузку данных в БД, построить dashboard|Завершен|
 | [11. Прогнозирование оттока клиентов фитнес-центра](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/blob/main/fittness/fittness.ipynb)|Кластеризация, машинное обучение|Завершен|
-| [12. Телеком. Поиск клиента с неоптимальными тарифами](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/tree/main/telecomm_optimization/telecom_opt.ipynb)|Исследовательский анализ данных. Статистический анализ данных. Поиск закономерностей и разработка методов оптимизации|Завершен|
+| [12. Телеком. Поиск клиента с неоптимальными тарифами](https://nbviewer.org/github/ArtyKrafty/Data_analyst_projects/blob/main/telecomm_optimization/telecom_opt.ipynb)|Исследовательский анализ данных. Статистический анализ данных. Поиск закономерностей и разработка методов оптимизации|Завершен|
 
 
 <a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
