@@ -106,7 +106,8 @@ ________________________________________________________________________________
 
 | **Проект** | **Тип исследования** | **Статус** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. NLP. Простые эмбеддинги](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/simple_embd/NLP_Simple_embeddings.ipynb)|реализация простых эмбеддингов, word2vec, ранжирование, pyTorch|Завершен|
+| [01. Классификация тональности текста](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/toxic_comments_BERT/toxic_comments_BERT.ipynb)| Необходимо обучить модель классифицировать комментарии на позитивные и негативные| Завершен|
+| [02. NLP. Простые эмбеддинги](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/simple_embd/NLP_Simple_embeddings.ipynb)|реализация простых эмбеддингов, word2vec, ранжирование, pyTorch|Завершен|
 
 <a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
@@ -126,14 +127,13 @@ ________________________________________________________________________________
 | [07. Предсказания цены автомобиля](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/auto_price_prediction/autos.ipynb)| Необходимо построить и сравнить несколько моделей для определения стоимости автомобиля| Завершен|
 | [08. SMA стратегия Forex](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/sma_trading_forex/SMAtrading.ipynb)| Работа с временными рядами, реализация торговой стратегии| Завершен|
 | [09. Прогнозирование количества заказов такси](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/time_series_taxi/taxi_time_series.ipynb)| Работа с временными рядами, Необходимо построить модель для прогнозирования количества заказов такси.| Завершен|
-| [10. Классификация тональности текста](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/toxic_comments_BERT/toxic_comments_BERT.ipynb)| Необходимо обучить модель классифицировать комментарии на позитивные и негативные| Завершен|
-| [11. Аналитика в авиакомпании](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/data_extraction_and_and_avia/avia_tickets.ipynb)|Понять предпочтения пользователей, покупающих билеты на рейсы в города, где проходят крупнейшие фестивали|Завершен|
-| [12. OOП в линейных моделях](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/OOP_linear_models/mylineraregression.ipynb)|ООП в линейных моделях|Завершен|
-| [13. Исследование оттока клиентов телеком компании](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Diploma_project/diploma_solomko_final.ipynb)|Дипломный проект. Дисбаланс классов, классификация бинарная|Завершен|
-| [14. Web-приложение - Предсказание цены автомобиля](https://carpricepredictapp.herokuapp.com/)|Приложение с API. Flask, html, css, python |Завершен|
-| [15. Предсказание дефолта клиентов банка](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_clietns_default/bank_client_default.ipynb)|Предсказание дефолта с помощью инструментов МЛ, pipiline обработки для продакшн|Завершен|
-| [16. Предсказание температуры и углерода в процессе продувки](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/temp_and_carbon_pred/w_o_data_EVRAZ_sandbox_ipynb_.ipynb)|Предсказание двух целевых переменных в задаче регрессии с помощью инструментов МЛ, pipiline обработки для продакшн, борьба с различным распределением целевой переменной|Завершен|
-| [17. Прогнозирование востребования банковской гарантии](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_garanty/garanty_bank.ipynb)|Построить аппликационную модель оценки вероятности предъявления по гарантии, чтобы минимизировать потери от кредитного риска|Завершен|
+| [10. Аналитика в авиакомпании](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/data_extraction_and_and_avia/avia_tickets.ipynb)|Понять предпочтения пользователей, покупающих билеты на рейсы в города, где проходят крупнейшие фестивали|Завершен|
+| [11. OOП в линейных моделях](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/OOP_linear_models/mylineraregression.ipynb)|ООП в линейных моделях|Завершен|
+| [12. Исследование оттока клиентов телеком компании](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Diploma_project/diploma_solomko_final.ipynb)|Дипломный проект. Дисбаланс классов, классификация бинарная|Завершен|
+| [13. Web-приложение - Предсказание цены автомобиля](https://carpricepredictapp.herokuapp.com/)|Приложение с API. Flask, html, css, python |Завершен|
+| [114. Предсказание дефолта клиентов банка](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_clietns_default/bank_client_default.ipynb)|Предсказание дефолта с помощью инструментов МЛ, pipiline обработки для продакшн|Завершен|
+| [15. Предсказание температуры и углерода в процессе продувки](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/temp_and_carbon_pred/w_o_data_EVRAZ_sandbox_ipynb_.ipynb)|Предсказание двух целевых переменных в задаче регрессии с помощью инструментов МЛ, pipiline обработки для продакшн, борьба с различным распределением целевой переменной|Завершен|
+| [16. Прогнозирование востребования банковской гарантии](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_garanty/garanty_bank.ipynb)|Построить аппликационную модель оценки вероятности предъявления по гарантии, чтобы минимизировать потери от кредитного риска|Завершен|
 
 <a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
@@ -294,7 +294,8 @@ ________________________________________________________________________________
 
 | **Project** | **Type of research** | **Status** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. NLP. Simple embeddings](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/simple_embd/NLP_Simple_embeddings.ipynb)|implementation of simple embeddings, word2vec, ranking, pyTorch | Completed |
+| [01. Classification of the sentiment of the text](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/toxic_comments_BERT/toxic_comments_BERT.ipynb)| It is necessary to train the model to classify comments into positive and negative | Completed |
+| [02. NLP. Simple embeddings](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/simple_embd/NLP_Simple_embeddings.ipynb)|implementation of simple embeddings, word2vec, ranking, pyTorch | Completed |
 
 <a href="#link7"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
@@ -313,14 +314,13 @@ ________________________________________________________________________________
 | [07. Car price predictions](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/auto_price_prediction/autos.ipynb)| Multiple Models To Be Build And Compare To Determine The Value Of A Car | Completed |
 | [08. SMA strategy Forex](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/sma_trading_forex/SMAtrading.ipynb)| Working with Time Series, Implementing a Trading Strategy | Completed |
 | [09. Forecasting the number of taxi orders](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/time_series_taxi/taxi_time_series.ipynb)| Working with time series, It is necessary to build a model to predict the number of taxi orders.| Completed |
-| [10. Classification of the sentiment of the text](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/toxic_comments_BERT/toxic_comments_BERT.ipynb)| It is necessary to train the model to classify comments into positive and negative | Completed |
-| [11.Analytics in the air company](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/data_extraction_and_and_avia/avia_tickets.ipynb)|Understand the preferences of users who buy tickets for flights to cities where major festivals take place | Completed |
-| [12. OOP in linear models](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/OOP_linear_models/mylineraregression.ipynb)|OOP in linear models|Completed|
-| [13. Research of the churn of clients of a telecom company](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Diploma_project/diploma_solomko_final.ipynb)|Graduation project. Class imbalance, binary classification | Completed |
-| [14. Web Application - Car Price Prediction](https://carpricepredictapp.herokuapp.com/)|Application with API. Flask, html, css, python | Completed|
-| [15. Predicting default of bank clients](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_clietns_default/bank_client_default.ipynb)|Default prediction using ML tools, pipiline processing for production | Completed|
-| [16. Predicting temperature and carbon during purging](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/temp_and_carbon_pred/w_o_data_EVRAZ_sandbox_ipynb_.ipynb)|Predicting two target variables in a regression problem using ML tools, pipiline processing for production, dealing with different target variable distributions | Completed |
-| [17. Forecasting the demand for a bank guarantee](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_garanty/garanty_bank.ipynb)|Build an application model for assessing the probability of presentation under a guarantee in order to minimize losses from credit risk | Completed |
+| [10.Analytics in the air company](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/data_extraction_and_and_avia/avia_tickets.ipynb)|Understand the preferences of users who buy tickets for flights to cities where major festivals take place | Completed |
+| [11. OOP in linear models](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/OOP_linear_models/mylineraregression.ipynb)|OOP in linear models|Completed|
+| [12. Research of the churn of clients of a telecom company](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Diploma_project/diploma_solomko_final.ipynb)|Graduation project. Class imbalance, binary classification | Completed |
+| [13. Web Application - Car Price Prediction](https://carpricepredictapp.herokuapp.com/)|Application with API. Flask, html, css, python | Completed|
+| [14. Predicting default of bank clients](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_clietns_default/bank_client_default.ipynb)|Default prediction using ML tools, pipiline processing for production | Completed|
+| [15. Predicting temperature and carbon during purging](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/temp_and_carbon_pred/w_o_data_EVRAZ_sandbox_ipynb_.ipynb)|Predicting two target variables in a regression problem using ML tools, pipiline processing for production, dealing with different target variable distributions | Completed |
+| [16. Forecasting the demand for a bank guarantee](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_garanty/garanty_bank.ipynb)|Build an application model for assessing the probability of presentation under a guarantee in order to minimize losses from credit risk | Completed |
 
 
 <a href="#link7"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
