@@ -101,6 +101,17 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
 
+<p align="center"> Проекты Data Science. Deep learning и NLP </p align="center">
+
+
+| **Проект** | **Тип исследования** | **Статус** |
+| -------------------- | :--------------------- |:---------------------------:|
+| [01. NLP. Простые эмбеддинги](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/simple_embd/NLP_Simple_embeddings.ipynb)|реализация простых эмбеддингов, word2vec, ранжирование, pyTorch|Завершен|
+
+<a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
+__________________________________________________________________________________________________________________________
+
+
 <p align="center"> Проекты Data Science. Классический ML </p align="center">
 
 
@@ -275,6 +286,17 @@ ________________________________________________________________________________
 | [05. Computer vision. GAN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gan/pyTorch_GAN_s.ipynb) | Implementing neural network architectures GAN, pyTorch | Completed |
 | [06. Simpsons classification. CNN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/kaggle_simpson/Simpsons_classifier_Solomko.ipynb) | Classification. Computer Vision | Completed |
 | [07. Object detection module](https://detartyseg.herokuapp.com/)|Detection, segmentation on custom data network, application creation | Completed|
+
+<a href="#link7"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
+__________________________________________________________________________________________________________________________
+
+<p align="center"> Data Science projects. Deep learning and NLP </p align="center">
+
+
+| **Проект** | **Тип исследования** | **Статус** |
+| -------------------- | :--------------------- |:---------------------------:|
+| [01. NLP. Simple embeddings](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/simple_embd/NLP_Simple_embeddings.ipynb)|
+implementation of simple embeddings, word2vec, ranking, pyTorch|Completed|
 
 <a href="#link7"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
