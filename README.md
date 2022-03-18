@@ -292,11 +292,9 @@ ________________________________________________________________________________
 
 <p align="center"> Data Science projects. Deep learning and NLP </p align="center">
 
-
-| **Проект** | **Тип исследования** | **Статус** |
+| **Project** | **Type of research** | **Status** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. NLP. Simple embeddings](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/simple_embd/NLP_Simple_embeddings.ipynb)|
-implementation of simple embeddings, word2vec, ranking, pyTorch|Completed|
+| [01. NLP. Simple embeddings](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/simple_embd/NLP_Simple_embeddings.ipynb)|implementation of simple embeddings, word2vec, ranking, pyTorch | Completed |
 
 <a href="#link7"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
