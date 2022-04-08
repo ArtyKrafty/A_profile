@@ -109,6 +109,7 @@ ________________________________________________________________________________
 | [01. NLP. Классификация тональности текста](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/toxic_comments_BERT/toxic_comments_BERT.ipynb)| Необходимо обучить модель классифицировать комментарии на позитивные и негативные| Завершен|
 | [02. NLP. Простые эмбеддинги](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/simple_embd/NLP_Simple_embeddings.ipynb)|реализация простых эмбеддингов, word2vec, ранжирование, pyTorch|Завершен|
 | [03. NLP. Эмбеддинги](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/nlp_embeddings/NLP_embeddings.ipynb)|реализация эмбеддингов с применением SVD, word2vec, классификация, pyTorch|Завершен|
+| [04. NLP. Классификация](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main//nlp_classification/NLP_Classification.ipynb)|реализация различных подходов к классификации текстов, RNN, CNN, pyTorch|Завершен|
 
 <a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
@@ -298,6 +299,8 @@ ________________________________________________________________________________
 | [01. NLP. Classification of the sentiment of the text](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/toxic_comments_BERT/toxic_comments_BERT.ipynb)| It is necessary to train the model to classify comments into positive and negative | Completed |
 | [02. NLP. Simple embeddings](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/simple_embd/NLP_Simple_embeddings.ipynb)|implementation of simple embeddings, word2vec, ranking, pyTorch | Completed |
 | [03. NLP. Embeddings](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/nlp_embeddings/NLP_embeddings.ipynb)|implementation of embeddings with SVD, word2vec, classification, pyTorch | Completed |
+| [04. NLP. Classification](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main//nlp_classification/NLP_Classification.ipynb)|implementation of  different attempts for text classification, RNN, CNN, pyTorch| Completed |
+
 
 <a href="#link7"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
