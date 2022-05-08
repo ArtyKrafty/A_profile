@@ -114,8 +114,6 @@ ________________________________________________________________________________
 | [06. NLP. Seq2Seq with attention](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/seq2seq/NLP_NeuralMachineTranslation_hw.ipynb)|реализация seq2seq модели с аттеншн|Завершен|
 
 
-NLP_NeuralMachineTranslation_hw
-
 <a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
 
