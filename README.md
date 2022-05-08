@@ -111,6 +111,10 @@ ________________________________________________________________________________
 | [03. NLP. Эмбеддинги](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/nlp_embeddings/NLP_embeddings.ipynb)|реализация эмбеддингов с применением SVD, word2vec, классификация, pyTorch|Завершен|
 | [04. NLP. Классификация](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/nlp_classification/NLP_Classification.ipynb)|реализация различных подходов к классификации текстов, RNN, CNN, pyTorch|Завершен|
 | [05. NLP. Языковые модели](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/language_model/Language_model.ipynb)|реализация различных подходов к определению POS, pyTorch|Завершен|
+| [06. NLP. Seq2Seq with attention](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/seq2seq/NLP_NeuralMachineTranslation_hw.ipynb)|реализация seq2seq модели с аттеншн|Завершен|
+
+
+NLP_NeuralMachineTranslation_hw
 
 <a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
@@ -301,7 +305,8 @@ ________________________________________________________________________________
 | [02. NLP. Simple embeddings](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/simple_embd/NLP_Simple_embeddings.ipynb)|implementation of simple embeddings, word2vec, ranking, pyTorch | Completed |
 | [03. NLP. Embeddings](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/nlp_embeddings/NLP_embeddings.ipynb)|implementation of embeddings with SVD, word2vec, classification, pyTorch | Completed |
 | [04. NLP. Classification](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/nlp_classification/NLP_Classification.ipynb)|implementation of  different attempts for text classification, RNN, CNN, pyTorch| Completed |
-| [05. NLP. Language models](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/language_model/Language_model.ipynb)|POS-tagging|Завершен|
+| [05. NLP. Language models](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/language_model/Language_model.ipynb)|POS-tagging|Completed|
+| [06. NLP. Seq2Seq with attention](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/seq2seq/NLP_NeuralMachineTranslation_hw.ipynb)|seq2seq model, LSTM, torch|Completed|
 
 
 <a href="#link7"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
