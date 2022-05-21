@@ -112,6 +112,8 @@ ________________________________________________________________________________
 | [04. NLP. Классификация](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/nlp_classification/NLP_Classification.ipynb)|реализация различных подходов к классификации текстов, RNN, CNN, pyTorch|Завершен|
 | [05. NLP. Языковые модели](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/language_model/Language_model.ipynb)|реализация различных подходов к определению POS, pyTorch|Завершен|
 | [06. NLP. Seq2Seq with attention](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/seq2seq/NLP_NeuralMachineTranslation_hw.ipynb)|реализация seq2seq модели с аттеншн|Завершен|
+| [07. NLP. BERT](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/bert/NLP_BERT_for_text_classification_hw.ipynb)|работа с трансформерами. BERT|Завершен|
+| [08. NLP. GPT2](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gpt/NLP_GPT_hw.ipynb)|работа с трансформерами. GPT2|Завершен|
 
 
 <a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
@@ -305,6 +307,8 @@ ________________________________________________________________________________
 | [04. NLP. Classification](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/nlp_classification/NLP_Classification.ipynb)|implementation of  different attempts for text classification, RNN, CNN, pyTorch| Completed |
 | [05. NLP. Language models](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/language_model/Language_model.ipynb)|POS-tagging|Completed|
 | [06. NLP. Seq2Seq with attention](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/seq2seq/NLP_NeuralMachineTranslation_hw.ipynb)|seq2seq model, LSTM, torch|Completed|
+| [07. NLP. BERT](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/bert/NLP_BERT_for_text_classification_hw.ipynb)|Transformers. BERT|Completed|
+| [08. NLP. GPT](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gpt/NLP_GPT_hw.ipynb)|Transformers. GPT2|Completed|
 
 
 <a href="#link7"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
