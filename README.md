@@ -141,6 +141,7 @@ ________________________________________________________________________________
 | [14. Предсказание дефолта клиентов банка](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_clietns_default/bank_client_default.ipynb)|Предсказание дефолта с помощью инструментов МЛ, pipiline обработки для продакшн|Завершен|
 | [15. Предсказание температуры и углерода в процессе продувки](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/temp_and_carbon_pred/w_o_data_EVRAZ_sandbox_ipynb_.ipynb)|Предсказание двух целевых переменных в задаче регрессии с помощью инструментов МЛ, pipiline обработки для продакшн, борьба с различным распределением целевой переменной|Завершен|
 | [16. Прогнозирование востребования банковской гарантии](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_garanty/garanty_bank.ipynb)|Построить аппликационную модель оценки вероятности предъявления по гарантии, чтобы минимизировать потери от кредитного риска|Завершен|
+| [17. Решение задачи регрессии SparkML](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/spark/spark_project.ipynb)|Построить пайплайн обработки данных с помощью средств SparkML|Завершен|
 
 <a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
@@ -335,7 +336,7 @@ ________________________________________________________________________________
 | [14. Predicting default of bank clients](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_clietns_default/bank_client_default.ipynb)|Default prediction using ML tools, pipiline processing for production | Completed|
 | [15. Predicting temperature and carbon during purging](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/temp_and_carbon_pred/w_o_data_EVRAZ_sandbox_ipynb_.ipynb)|Predicting two target variables in a regression problem using ML tools, pipiline processing for production, dealing with different target variable distributions | Completed |
 | [16. Forecasting the demand for a bank guarantee](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/Bank_garanty/garanty_bank.ipynb)|Build an application model for assessing the probability of presentation under a guarantee in order to minimize losses from credit risk | Completed |
-
+| [17. Regression task with SparkML](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/spark/spark_project.ipynb)|Build pipeline of prediction and validation with SparkML|Completed|
 
 <a href="#link7"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
