@@ -114,7 +114,7 @@ ________________________________________________________________________________
 | [06. NLP. Seq2Seq with attention](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/seq2seq/NLP_NeuralMachineTranslation_hw.ipynb)|реализация seq2seq модели с аттеншн|Завершен|
 | [07. NLP. BERT](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/bert/NLP_BERT_for_text_classification_hw.ipynb)|работа с трансформерами. BERT|Завершен|
 | [08. NLP. GPT2](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gpt/NLP_GPT_hw.ipynb)|работа с трансформерами. GPT2|Завершен|
-
+| [09. NLP. Summarization](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/summarization/NLP_Summarization_hw.ipynb)|работа с с архитектурами для суммаризации текста| Завершен |
 
 <a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
@@ -310,7 +310,7 @@ ________________________________________________________________________________
 | [06. NLP. Seq2Seq with attention](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/seq2seq/NLP_NeuralMachineTranslation_hw.ipynb)|seq2seq model, LSTM, torch|Completed|
 | [07. NLP. BERT](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/bert/NLP_BERT_for_text_classification_hw.ipynb)|Transformers. BERT|Completed|
 | [08. NLP. GPT](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gpt/NLP_GPT_hw.ipynb)|Transformers. GPT2|Completed|
-
+| [09. NLP. Summarization](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/summarization/NLP_Summarization_hw.ipynb)|Summarunner| Completed |
 
 <a href="#link7"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
