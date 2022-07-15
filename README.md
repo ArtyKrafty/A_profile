@@ -116,6 +116,7 @@ ________________________________________________________________________________
 | [08. NLP. GPT2](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gpt/NLP_GPT_hw.ipynb)|работа с трансформерами. GPT2|Завершен|
 | [09. NLP. Summarization](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/summarization/NLP_Summarization_hw.ipynb)|работа с с архитектурами для суммаризации текста| Завершен |
 | [10. NLP. Audio processing](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/audio/NLP_Spoken_language_processing_hw.ipynb)| работа со звуком, классификация и регрессия| Завершен |
+| [11. NLP/CNN. Image Captioning](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/image_cap/Diploma_image_captioning.ipynb)| работа с задачей Image Captioning | Завершен |
 
 <a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
@@ -313,6 +314,7 @@ ________________________________________________________________________________
 | [08. NLP. GPT](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gpt/NLP_GPT_hw.ipynb)|Transformers. GPT2|Completed|
 | [09. NLP. Summarization](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/summarization/NLP_Summarization_hw.ipynb)|Summarunner| Completed |
 | [10. NLP. Audio processing](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/audio/NLP_Spoken_language_processing_hw.ipynb)| audio classification | Completed |
+| [11. NLP/CNN. Image Captioning](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/image_cap/Diploma_image_captioning.ipynb)| Image Captioning | Completed |
 
 <a href="#link7"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
