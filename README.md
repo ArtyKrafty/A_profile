@@ -27,6 +27,7 @@ ________________________________________________________________________________
 01. [Репозиторий - Web-приложение для определения цены автомобиля](https://github.com/ArtyKrafty/CarPriceApp)
 02. [Репозиторий - OpenSource. Классы для отбора признаков и обработке DataFrame. PyPI проект](https://github.com/ArtyKrafty/featureselectors)
 03. [Репозиторий - Модульная обработка изображений с использованием OpenCV и генераторов Python с помощью Detectron2](https://github.com/ArtyKrafty/detection)
+04. [Развертывание Yandex Node](https://github.com/ArtyKrafty/yandex_node)
 
 
 
@@ -231,7 +232,7 @@ Modules:
 01. [Repository - Web application for determining the price of a car](https://github.com/ArtyKrafty/CarPriceApp)
 02. [Repository - OpenSource. Classes for feature selection and DataFrame processing. PyPI project](https://github.com/ArtyKrafty/featureselectors)
 03. [Repository - Modular image processing using OpenCV and Python generators with Detectron2](https://github.com/ArtyKrafty/detection)
-
+04. [Yandex Node Deployment](https://github.com/ArtyKrafty/yandex_node)
 
 
 __________________________________________________________________________________________________________________________
