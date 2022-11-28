@@ -22,7 +22,7 @@ ________________________________________________________________________________
 02. [Репозиторий - Проекты Data Analyst](https://github.com/ArtyKrafty/Data_analyst_projects)  
 03. [Репозиторий - Алгоритмы и структуры данных](https://github.com/ArtyKrafty/Algorithms)
 
-Модули:
+Проекты-репозитории:
 
 01. [Репозиторий - Web-приложение для определения цены автомобиля](https://github.com/ArtyKrafty/CarPriceApp)
 02. [Репозиторий - OpenSource. Классы для отбора признаков и обработке DataFrame. PyPI проект](https://github.com/ArtyKrafty/featureselectors)
